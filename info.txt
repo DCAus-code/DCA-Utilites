@@ -1,0 +1,4 @@
+before starting the bot ALWAYS goto the shell and copy and paste
+pip install -U discord.py
+pip install -U discord
+pip install discord-py-slash-command
